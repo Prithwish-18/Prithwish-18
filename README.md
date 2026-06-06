@@ -1,3 +1,21 @@
+<!-- Web Dev Banner -->
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+
+<!-- Your Info. -->
+<h1 align="center">Hi 👋, I'm Prithwish</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
+
+<!-- Programmer GIF -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **FrontEnd, DevOps**
+
+- 📫 How to reach me **prithwishsahoo2021@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prithwish-s-b66665343/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@prithwishsahoo2021) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/HatConscious6061) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PrithwishS66526) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@prithwishsahoo148) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prithwishsahoo2021@gmail.com) 
